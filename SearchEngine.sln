@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchEngine.UI", "SearchEngine.UI\SearchEngine.UI.csproj", "{4344CA84-C344-43D2-8D86-9223F6E4D6F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchEngine.UI", "SearchEngine.UI\SearchEngine.UI.csproj", "{4344CA84-C344-43D2-8D86-9223F6E4D6F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchEngine.DocumentParser", "SearchEngine.DocumentParser\SearchEngine.DocumentParser.csproj", "{DA4D539D-3DEE-42B3-AE4D-F5C2F84EBD49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchEngine.DocumentParser", "SearchEngine.DocumentParser\SearchEngine.DocumentParser.csproj", "{DA4D539D-3DEE-42B3-AE4D-F5C2F84EBD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchEngine.Indexing", "SearchEngine.Indexing\SearchEngine.Indexing.csproj", "{87A1E3FE-9CA7-45D2-9B61-7B3DFCB1A820}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DA4D539D-3DEE-42B3-AE4D-F5C2F84EBD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA4D539D-3DEE-42B3-AE4D-F5C2F84EBD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA4D539D-3DEE-42B3-AE4D-F5C2F84EBD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A1E3FE-9CA7-45D2-9B61-7B3DFCB1A820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A1E3FE-9CA7-45D2-9B61-7B3DFCB1A820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A1E3FE-9CA7-45D2-9B61-7B3DFCB1A820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A1E3FE-9CA7-45D2-9B61-7B3DFCB1A820}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
