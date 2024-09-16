@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchEngine.UI", "SearchEn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchEngine.DocumentParser", "SearchEngine.DocumentParser\SearchEngine.DocumentParser.csproj", "{DA4D539D-3DEE-42B3-AE4D-F5C2F84EBD49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchEngine.Indexing", "SearchEngine.Indexing\SearchEngine.Indexing.csproj", "{87A1E3FE-9CA7-45D2-9B61-7B3DFCB1A820}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchEngine.Indexing", "SearchEngine.Indexing\SearchEngine.Indexing.csproj", "{87A1E3FE-9CA7-45D2-9B61-7B3DFCB1A820}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
